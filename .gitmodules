@@ -1,0 +1,3 @@
+[submodule "cssexercises"]
+	path = cssexercises
+	url = https://github.com/prbme/css-exercises
